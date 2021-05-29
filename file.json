@@ -1,0 +1,26 @@
+{
+      "employee1": {
+            "name": "neelam",
+            "degignation": "programer",
+            "age": "24",
+            "salary": "2400"
+      },
+      "employee2": {
+            "name": "komal",
+            "degignation": "trainer",
+            "age": "24",
+            "salary": "20000"
+      },
+      "employee3": {
+            "name": "anuradha",
+            "degignation": "HR",
+            "age": "25",
+            "salary": "40000"
+      },
+      "employee4": {
+            "name": "Abhishek",
+            "degignation": "manager",
+            "age": "29",
+            "salary": "63000"
+      }
+}
